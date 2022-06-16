@@ -5,7 +5,7 @@ import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import LogoTitle from '../../assets/images/logo-jordan.png'
 import './index.scss'
-import Logo from './Logo'
+
 
 const Home = () => {
   const [letterClass] = useState('text-animate')
@@ -62,7 +62,6 @@ const Home = () => {
           </Link>
         </div>
       </div>
-     <Logo/>
       <Loader type="pacman" />
     </>
   )
