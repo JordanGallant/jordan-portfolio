@@ -1,34 +1,64 @@
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "https://i.ibb.co/SysPVb4/flash-cards-1-2.png",
+            "title": "Flash Card Design",
+            "description": "Weblow, Figma",
+            "url": "https://cards-26c8c3.webflow.io/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "https://i.ibb.co/44hpTXY/Untitled-1-1440x821.jpg",
+            "title": "3D interactive calculator for web",
+            "description": "Webflow-Spline",
+            "url": "https://my.spline.design/untitled-495e3770aa92da2fff228a7e354ef5b5/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "https://i.ibb.co/X3qkW4F/WEZA-LOGO-01.png",
+            "title": "Weza ",
+            "description": "Next.Js, React.js",
+            "url": "https://www.we-za.co.za/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "https://i.ibb.co/mq3H11G/Screenshot-2022-06-17-at-11-18-07.png",
+            "title": "Beat Maker",
+            "description": "Pygame, Python",
+            "url": "https://replit.com/@JordanGallant/beat-maker?v=1"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "https://i.ibb.co/RgLDc8t/Screenshot-2022-06-17-at-11-23-00.png",
+            "title": "Create Digital Skill Cards",
+            "description": "Webflow, Airtable Zapier",
+            "url": "https://opc-with-cms-49b36fc78169fee9d4b202ceda.webflow.io/"
+        },
+        {
+            "cover": "https://i.ibb.co/wNSPs6S/Screenshot-2022-06-17-at-11-25-27.png",
+            "title": "Law Offices ZA",
+            "description": "Webflow, Finsweet",
+            "url": "https://search-algorithm.webflow.io/"
+        },
+        {
+            "cover": "https://i.ibb.co/XSGzj4M/Screenshot-2022-06-17-at-11-28-46.png",
+            "title": "Price Graph Crypto",
+            "description": "React, Typescript",
+            "url": "https://codesandbox.io/s/github/JordanGallant/crypto-graph/tree/main/"
+        },
+        {
+            "cover": "https://i.ibb.co/BCsYZKT/Screenshot-2022-06-17-at-11-40-41.png",
+            "title": "Jordan's Podcast Summaries",
+            "description": "Python, Assembly Ai,",
+            "url": "https://share.streamlit.io/jordangallant/podcast-summary/main.py"
+        },
+        {
+            "cover": "https://i.ibb.co/80r3wW4/Screenshot-2022-06-17-at-13-20-33.png",
+            "title": "Radio Player Redesign",
+            "description": "React.js, HTML, CSS",
+            "url": "https://www.theother.radio/"
+        },
+        {
+            "cover": "https://i.ibb.co/wNnFw9B/Screenshot-2022-06-17-at-22-10-12.png",
+            "title": "Fractal Tree Manipulator",
+            "description": "Javascript, p5.js",
+            "url": "https://onvlw9.csb.app/"
         }
     ]
 }

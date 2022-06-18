@@ -24,7 +24,7 @@ return (
         <p> I'm quietly confident, naturally curious, and perpetually working on
             improving my chops one design problem at a time.</p>
 
-        <p>I am interested in many things such as: Cyber security, Music Production, Arduino, Machine Learning and AI</p>
+        <p>I am interested in many things such as: Cyber security, Music Production,App Development,Blockchain Technology, Arduino, Machine Learning and AI</p>
         </div>
         <div className='stage-cube-cont'>
             <div className='cubespinner'>

@@ -6,7 +6,7 @@ import {
   faLinkedin,
   faGithub,
   faTwitter,
-  faInstagram,
+  faSoundcloud,
 } from '@fortawesome/free-brands-svg-icons'
 import { faHome, faUser, faEnvelope, faSuitcase } from '@fortawesome/free-solid-svg-icons'
 import { Link, NavLink } from 'react-router-dom'
@@ -65,8 +65,8 @@ const Sidebar = () => {
           </a>
         </li>
         <li>
-          <a href="https://www.instagram.com/jgsleepwithme/" rel="noreferrer" target="_blank">
-            <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
+          <a href="https://soundcloud.com/jordan-gallant-291710442" rel="noreferrer" target="_blank">
+            <FontAwesomeIcon icon={faSoundcloud} color="#4d4d4e" />
           </a>
         </li>
       </ul>
